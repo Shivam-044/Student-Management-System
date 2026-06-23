@@ -28,3 +28,22 @@ Ensure you have [Python](https://www.python.org/downloads/) installed on your sy
 1. Clone the repository:
 ```bash
    git clone [https://github.com/Shivam-044/Student-Management-System.git](https://github.com/Shivam-044/Student-Management-System.git)
+```
+2. Navigate to the project directory:
+```bash
+   cd Student-Management-System
+```
+3. Run the application:
+```bash
+   python main.py
+```
+
+📜 <h4>License:</h4>
+<u>This project is open-source and available under the MIT License.</u>
+
+🤝 <h4>Contact:</h4>
+Developed by <i>Shivam</i>
+
+GitHub: @Shivam-044
+
+<i>If you find this project useful, feel free to give it a ⭐️!</i>
