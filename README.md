@@ -38,10 +38,10 @@ Ensure you have [Python](https://www.python.org/downloads/) installed on your sy
    python main.py
 ```
 
-📜 <h4>License:</h4>
+<h4>📜 License:</h4>
 <u>This project is open-source and available under the MIT License.</u>
 
-🤝 <h4>Contact:</h4>
+<h4>🤝 Contact:</h4>
 Developed by <i>Shivam</i>
 
 GitHub: @Shivam-044
